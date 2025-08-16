@@ -13,13 +13,17 @@ Which customer segments are more likely to default?
 What are the trends in loan performance over time?
 
 # 📂 Repository Structure
-File Name	|                                            Description
-Bank_Loan_Analysis_Dashboard.pbix	           Power BI dashboard with KPIs and insights into loan approvals, defaults, and customer profiles.
-Problem_Statement_Bank_loan_analysis.docx	   Defines the business problem, objectives, and expected outcomes.
-financial_loan.csv	                         Dataset containing loan application and repayment information.
-SQL_File	                                   Collection of SQL scripts for data cleaning, transformation, and KPI generation.
-README.md	                                   Project overview (this file).
-LICENSE	                                     Usage rights for this project.
+
+
+| File Name                                | Description                                                                 |
+|------------------------------------------|-----------------------------------------------------------------------------|
+| **Bank_Loan_Analysis_Dashboard.pbix**    | Power BI dashboard with KPIs and insights into loan approvals, defaults, and customer profiles. |
+| **Problem_Statement_Bank_loan_analysis.docx** | Document defining the business problem, objectives, and expected outcomes. |
+| **financial_loan.csv**                   | Dataset containing loan application and repayment information.              |
+| **SQL_File**                             | Collection of SQL scripts for data cleaning, transformation, and KPI generation. |
+| **README.md**                            | Project overview and documentation (this file).                             |
+| **LICENSE**                              | Usage rights and license information for this project.                      |
+
 
 # 🔑 Key Highlights
 📌 SQL Expertise: Data extraction, cleaning, transformations, and KPI calculations.
