@@ -1,31 +1,29 @@
-# 📊 Bank Loan Analysis Dashboard (Power BI)
-## 📌 Project Overview
-This project analyzes bank loan applications and performance metrics to identify approval trends, defaults, and risk factors.
-The dashboard provides actionable insights for loan officers and management to improve decision-making, risk assessment, and branch performance monitoring.
+# 📊 Bank Loan Analysis Project
+This project demonstrates my ability to analyze financial data, write SQL queries, and build interactive dashboards in Power BI.
+It is part of my Data Analytics portfolio to showcase skills required for roles such as Data Analyst, Business Analyst, and Data Scientist.
 
-# 🎯 Objectives
-Analyze loan approval vs rejection patterns
+# 📌 Business Problem
+Banks face challenges in identifying risky loans, monitoring repayments, and improving approval efficiency.
+This project uses historical loan data to answer:
 
-Identify key factors influencing loan defaults
+What is the overall loan approval rate?
 
-Track branch-wise loan performance
+Which customer segments are more likely to default?
 
-Provide an interactive Power BI dashboard for quick decision-making
+What are the trends in loan performance over time?
 
-# 🛠 Tech Stack
-Power BI – Dashboard & Visualization
+# 📂 Repository Structure
+File Name	|                                            Description
+Bank_Loan_Analysis_Dashboard.pbix	           Power BI dashboard with KPIs and insights into loan approvals, defaults, and customer profiles.
+Problem_Statement_Bank_loan_analysis.docx	   Defines the business problem, objectives, and expected outcomes.
+financial_loan.csv	                         Dataset containing loan application and repayment information.
+SQL_File	                                   Collection of SQL scripts for data cleaning, transformation, and KPI generation.
+README.md	                                   Project overview (this file).
+LICENSE	                                     Usage rights for this project.
 
-SQL – Data Extraction & Analysis
+# 🔑 Key Highlights
+📌 SQL Expertise: Data extraction, cleaning, transformations, and KPI calculations.
 
+📊 Power BI Dashboard: Interactive visuals showing loan status, default trends, and applicant risk.
 
-Excel/CSV – Raw Dataset
-
-# 🔑 Key Insights
-Loan approval rates are higher among applicants with higher income and strong credit scores
-
-Default rates are concentrated in personal loans and specific regions
-
-Branch A & C outperform others in terms of recovery and approval success rate
-
-Loan amount and applicant income have a direct correlation with loan approval
-
+💡 Business Insights: Helps banks reduce risk, optimize loan approvals, and improve profitability.
