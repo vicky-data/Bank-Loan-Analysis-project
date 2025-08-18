@@ -31,3 +31,11 @@ What are the trends in loan performance over time?
 📊 Power BI Dashboard: Interactive visuals showing loan status, default trends, and applicant risk.
 
 💡 Business Insights: Helps banks reduce risk, optimize loan approvals, and improve profitability.
+
+## 🔹 Dashboard Preview
+<img width="1345" height="759" alt="image" src="https://github.com/user-attachments/assets/72d025d7-5563-45ee-8dea-81904d7d7c8d" />
+<img width="1345" height="754" alt="image" src="https://github.com/user-attachments/assets/6433b322-dfe4-4fae-9c1b-dd0e61cefab0" />
+<img width="1345" height="754" alt="image" src="https://github.com/user-attachments/assets/9b4440af-89a9-44a9-99b2-3e51e3440023" />
+
+
+
